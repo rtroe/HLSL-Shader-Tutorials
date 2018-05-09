@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/Content/mdls/model.fbx</File>
+    <File>/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/Content/mdls/null_diffuse.png</File>
+    <File>/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/Content/fonts/Font.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

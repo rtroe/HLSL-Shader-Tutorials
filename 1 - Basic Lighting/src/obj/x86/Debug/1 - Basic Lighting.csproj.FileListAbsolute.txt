@@ -1,0 +1,47 @@
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/x64/libopenal.so.1
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/x64/soft_oal.dll
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/x64/libSDL2-2.0.so.0
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/x64/SDL2.dll
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/x86/libopenal.so.1
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/x86/soft_oal.dll
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/x86/libSDL2-2.0.so.0
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/x86/SDL2.dll
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/libopenal.1.dylib
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/libSDL2-2.0.0.dylib
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/Content/fonts/Font.xnb
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/Content/txtrs/blank.xnb
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/MonoGame.Framework.dll.config
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/Content/mdls/model.xnb
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/Content/mdls/null_diffuse.xnb
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/ViewportTest.exe
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/ViewportTest.pdb
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/MonoGame.Framework.dll
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/bin/Debug/MonoGame.Framework.xml
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/obj/x86/Debug/1 - Basic Lighting.csprojResolveAssemblyReference.cache
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/obj/x86/Debug/1 - Basic Lighting.csproj.CoreCompileInputs.cache
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/obj/x86/Debug/ViewportTest.exe
+/Users/rtroe/Documents/Code/Shader Series/1 - Basic Lighting/src/obj/x86/Debug/ViewportTest.pdb
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/x64/libopenal.so.1
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/x64/soft_oal.dll
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/x64/libSDL2-2.0.so.0
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/x64/SDL2.dll
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/x86/libopenal.so.1
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/x86/soft_oal.dll
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/x86/libSDL2-2.0.so.0
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/x86/SDL2.dll
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/libopenal.1.dylib
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/libSDL2-2.0.0.dylib
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/Content/fonts/Font.xnb
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/Content/txtrs/blank.xnb
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/MonoGame.Framework.dll.config
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/ViewportTest.exe
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/ViewportTest.pdb
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/MonoGame.Framework.dll
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/MonoGame.Framework.xml
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/obj/x86/Debug/1 - Basic Lighting.csprojResolveAssemblyReference.cache
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/obj/x86/Debug/1 - Basic Lighting.csproj.CoreCompileInputs.cache
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/obj/x86/Debug/ViewportTest.exe
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/obj/x86/Debug/ViewportTest.pdb
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/Content/mdls/suzanne/model.xnb
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/Content/mdls/suzanne/model_diffuse.xnb
+/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/bin/Debug/Content/shaders/ModelEffect.xnb

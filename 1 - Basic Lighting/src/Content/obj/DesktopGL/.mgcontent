@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>HiDef</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/Content/mdls/suzanne/model.fbx</File>
+    <File>/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/Content/mdls/suzanne/model_diffuse.png</File>
+    <File>/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/Content/shaders/ModelEffect.fx</File>
+  </SourceFiles>
+</SourceFileCollection>

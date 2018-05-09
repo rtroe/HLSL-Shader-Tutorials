@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/Content/mdls/suzanne/model_diffuse.png</SourceFile>
+  <SourceTime>2017-04-15T07:17:38-04:00</SourceTime>
+  <DestFile>/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/Content/bin/DesktopGL/mdls/suzanne/model_diffuse.xnb</DestFile>
+  <DestTime>2018-05-09T13:15:11-04:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2017-03-01T10:06:24-05:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:06:24-05:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

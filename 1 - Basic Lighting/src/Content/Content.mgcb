@@ -1,0 +1,62 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:HiDef
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+/reference:../../../packages/InfinitespaceStudios.Pipeline.1.0.8/tools/InfinitespaceStudios.Pipeline.dll
+
+#---------------------------------- Content ---------------------------------#
+
+#begin fonts/Font.xnb
+/copy:fonts/Font.xnb
+
+#begin mdls/suzanne/model.fbx
+/importer:FbxImporter
+/processor:ModelProcessor
+/processorParam:ColorKeyColor=0,0,0,0
+/processorParam:ColorKeyEnabled=True
+/processorParam:DefaultEffect=BasicEffect
+/processorParam:GenerateMipmaps=True
+/processorParam:GenerateTangentFrames=True
+/processorParam:PremultiplyTextureAlpha=True
+/processorParam:PremultiplyVertexColors=True
+/processorParam:ResizeTexturesToPowerOfTwo=False
+/processorParam:RotationX=0
+/processorParam:RotationY=0
+/processorParam:RotationZ=0
+/processorParam:Scale=1
+/processorParam:SwapWindingOrder=False
+/processorParam:TextureFormat=Compressed
+/build:mdls/suzanne/model.fbx
+
+#begin mdls/suzanne/model_diffuse.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:mdls/suzanne/model_diffuse.png
+
+#begin shaders/ModelEffect.fx
+/importer:EffectImporter
+/processor:RemoteEffectProcessor
+/processorParam:RemoteAddress=pipeline.infinitespace-studios.co.uk
+/processorParam:RemotePort=443
+/processorParam:Protocol=https
+/processorParam:DebugMode=Auto
+/build:shaders/ModelEffect.fx
+
+#begin txtrs/blank.xnb
+/copy:txtrs/blank.xnb
+

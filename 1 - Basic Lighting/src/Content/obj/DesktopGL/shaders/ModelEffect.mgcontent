@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/Content/shaders/ModelEffect.fx</SourceFile>
+  <SourceTime>2018-05-09T14:27:40-04:00</SourceTime>
+  <DestFile>/Users/rtroe/Documents/Code/Tutorials/Shader Series/1 - Basic Lighting/src/Content/bin/DesktopGL/shaders/ModelEffect.xnb</DestFile>
+  <DestTime>2018-05-09T14:27:54-04:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-03-01T10:06:24-05:00</ImporterTime>
+  <Processor>RemoteEffectProcessor</Processor>
+  <ProcessorTime>2017-04-03T00:41:10-04:00</ProcessorTime>
+  <Parameters>
+    <Key>RemoteAddress</Key>
+    <Value>pipeline.infinitespace-studios.co.uk</Value>
+  </Parameters>
+  <Parameters>
+    <Key>RemotePort</Key>
+    <Value>443</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Protocol</Key>
+    <Value>https</Value>
+  </Parameters>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
